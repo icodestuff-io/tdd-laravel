@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Django Unchained",
+        "release_year": 2012,
+        "director": "Quentin Tarantino",
+        "genre": [
+            "drama",
+            "western"
+        ],
+        "cover": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_FMjpg_UX1000_.jpg",
+        "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi."
+    },
+    {
+        "name": "Coming To America",
+        "release_year": 1988,
+        "director": "John Landis",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "cover": "https://m.media-amazon.com/images/M/MV5BNGZlNjdlZmMtYTg0MC00MmZkLWIyNDktYmNlOWYzMTkzYWQ1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "description": "An extremely pampered African prince travels to Queens, New York, and goes undercover to find a wife that he can respect for her intelligence and strong will."
+    },
+    {
+        "name": "Interstellar",
+        "release_year": 2014,
+        "director": "Christopher Nolan",
+        "genre": [
+            "adventure",
+            "Sci-Fi"
+        ],
+        "cover": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+    },
+    {
+        "name": "Slumdog Millionaire",
+        "release_year": 2008,
+        "director": "Danny Boyle",
+        "genre": [
+            "drama",
+            "romance"
+        ],
+        "cover": "https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+        "description": "A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\"."
+    },
+    {
+        "name": "Scream",
+        "release_year": 1996,
+        "director": "Wes Craven",
+        "genre": [
+            "horror",
+            "mystery"
+        ],
+        "cover": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_FMjpg_UX1000_.jpg",
+        "description": "A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game."
+    },
+    {
+        "name": "Superbad",
+        "release_year": 2007,
+        "director": "Greg Mottola",
+        "genre": [
+            "comedy"
+        ],
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTc0NjIyMjA2OF5BMl5BanBnXkFtZTcwMzIxNDE1MQ@@._V1_FMjpg_UX1000_.jpg",
+        "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry."
+    }
+]
